@@ -10,5 +10,3 @@
         var idadeFinal = anoAtual - anoNascimento
 
         alert('A idade final é: '+ idadeFinal);
-
-        
